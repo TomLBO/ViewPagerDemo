@@ -1,1 +1,3 @@
 include ':app', ':tabLineLibrary'
+include ':ViewPagerIndicator'
+include ':viewagerIndicatorSample'
